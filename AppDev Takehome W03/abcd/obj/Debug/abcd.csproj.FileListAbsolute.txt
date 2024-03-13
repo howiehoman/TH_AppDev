@@ -1,0 +1,11 @@
+C:\Users\ASUS\Downloads\abcd\abcd\bin\Debug\abcd.exe.config
+C:\Users\ASUS\Downloads\abcd\abcd\bin\Debug\abcd.exe
+C:\Users\ASUS\Downloads\abcd\abcd\bin\Debug\abcd.pdb
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.csproj.AssemblyReference.cache
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.Form1.resources
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.Properties.Resources.resources
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.csproj.GenerateResource.cache
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.exe
+C:\Users\ASUS\Downloads\abcd\abcd\obj\Debug\abcd.pdb
